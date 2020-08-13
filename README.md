@@ -1,1 +1,0 @@
-# realnote-ionic
